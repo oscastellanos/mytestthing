@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mytestthing"
+  site-url: "https://oscastellanos.github.io/mytestthing"
+  description: "It is just a test thing"
+  repo-branch: main
+  repo-url: "https://github.com/oscastellanos/mytestthing"
